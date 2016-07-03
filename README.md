@@ -3,6 +3,8 @@
 This repo contains information on building a dedicated 5" HDMI display for a
 NightScout website.
 
+![alt tag](https://github.com/IslePilot/Dedicated_5inch_NightScout_Display/blob/master/2016-07-02%2016.57.33.jpg)
+
 The first document, Part_1_OS_Install.pdf contains general Raspberry Pi setup
 information to take the Pi and a micro SD card from "just acquired" to working
 Pi box.
